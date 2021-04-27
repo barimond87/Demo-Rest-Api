@@ -23,10 +23,6 @@ import javax.sql.DataSource;
 import java.util.Properties;
 
 
-/**
- * @author Matthias Oberthuer
- * @since 29.05.2018
- */
 @Configuration
 @EnableTransactionManagement
 public class DbConfig {
